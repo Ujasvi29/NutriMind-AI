@@ -4,12 +4,12 @@ AI-powered food and health platform that predicts cravings and helps users make 
 
 ## Features
 
-* **Smart Recommendation Engine**: Generates dynamic meal plans tailored to your exact physiology, budget, and goals.
-* **Predictive Craving Alerts**: AI actively monitors your habits to warn you of potential cravings before they happen.
-* **Meal Scanner with Image Upload**: Upload food photos to instantly analyze macros and get smart ingredient swap suggestions.
-* **Student / Hostel Budget Mode**: Highly relatable dashboard optimizing mess menus and tight budgets for peak nutrition.
-* **Responsive Premium UI**: Glassmorphism, neon highlights, and smooth Framer Motion animations.
-* **Google-ready scalable architecture**: Designed to eventually integrate seamlessly with Google Cloud, Firebase, and Gemini AI.
+* Smart Recommendation Engine
+* Predictive Craving Alerts
+* Meal Scanner with Image Upload
+* Student / Hostel Budget Mode
+* Responsive Premium UI
+* Google-ready scalable architecture
 
 ## Tech Stack
 
@@ -35,15 +35,72 @@ npm run build
 
 ## Future Scope
 
-* Google Maps API integration (for nearby healthy food)
+* Google Maps API integration
 * Gemini AI nutrition assistant
-* Firebase auth (for streaks and habit tracking)
-* Real image recognition AI (vision models)
+* Firebase Authentication
+* Real AI meal recognition
 
 ## Hackathon Focus
 
-Built for **Prompt-a-thon Challenge**.
+Built for Prompt-a-thon Challenge.
 
 ## Author
 
 Ujasvi
+
+## Repository
+
+https://github.com/Ujasvi29/NutriMind-AI
+# NutriMind AI
+
+AI-powered food and health platform that predicts cravings and helps users make smarter food choices using mood, sleep, stress, budget, and goals.
+
+## Features
+
+* Smart Recommendation Engine
+* Predictive Craving Alerts
+* Meal Scanner with Image Upload
+* Student / Hostel Budget Mode
+* Responsive Premium UI
+* Google-ready scalable architecture
+
+## Tech Stack
+
+* React
+* Vite
+* Tailwind CSS
+* Framer Motion
+* Lucide React
+* React Hot Toast
+
+## How to Run Locally
+
+```bash
+npm install
+npm run dev
+```
+
+## Build for Production
+
+```bash
+npm run build
+```
+
+## Future Scope
+
+* Google Maps API integration
+* Gemini AI nutrition assistant
+* Firebase Authentication
+* Real AI meal recognition
+
+## Hackathon Focus
+
+Built for Prompt-a-thon Challenge.
+
+## Author
+
+Ujasvi
+
+## Repository
+
+https://github.com/Ujasvi29/NutriMind-AI
